@@ -1,0 +1,2 @@
+John Rodriguez. 
+	This Project is using Vanilla-JS with Tailwindcss. Tailwind Plugins made from scratch. Ate most of my time trying to understand groups and peers. The JavaScript is windowOnload with some click animations. Try them- Dark/Light theme, mobile burger. Played with alot of animation in the project. Pushing for a lot more tricks and style the future. This site was built on my of anime music/jrock. Wanted to relive those concert moments. 
